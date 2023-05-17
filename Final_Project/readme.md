@@ -22,7 +22,7 @@ Note that the precipitation data is in inches, and the temperature data is in Fa
 ## Data Sources
 Projektet använder offentligt tillgängliga dataset för honungsproduktion, nederbörd och temperatur i USA. Dessa datamängder har erhållits från följande källor:
 
-- Honey production: [Kaggle: Honey Production in US (2010-2021)](https://www.kaggle.com/datasets/mohitpoudel/honey-production-in-us-20102021)
+- Honey production: [Kaggle: Honey Production in US (2010-2021)](https://www.kaggle.com/datasets/mohitpoudel/us-honey-production-19952021)
 - Precipitation: [NOAA: National Centers for Environmental Information](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series/1/pdsi/1/12/1995-2021)
 - Average Temperatures: [NOAA: National Centers for Environmental Information](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series/1/pcp/1/12/1995-2021)
 
